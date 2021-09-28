@@ -8,9 +8,6 @@
  <a href="https://github.com/Mashiro2000">
   <img src="https://github-readme-stats.vercel.app/api?username=Mashiro2000&theme=vue&show_icons=true"/>
  </a>
-<a href="https://github.com/Mashiro2000">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashiro2000&langs_count=8"/>
-</a>
 </p>
 
 <p>
