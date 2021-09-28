@@ -6,8 +6,11 @@
 
 <p align="center">
  <a href="https://github.com/Mashiro2000">
-   <img src="https://github-readme-stats.vercel.app/api?username=Mashiro2000&theme=vue&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mashiro2000&theme=vue&show_icons=true"/>
  </a>
+<a href="https://github.com/Mashiro2000">
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mashiro2000"/>
+</a>
 </p>
 
 <p>
